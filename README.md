@@ -7,5 +7,3 @@ From time to time, to help a developer with API testing, task in which I always 
 In an bid to facilitate and speed up this process of credentials validation, I developed this web application to do the 3 tests at once, presenting the results on a single webpage, bringing the status code returned and a sample of the body response.
 
 JSP/Servlets, Bootstrap (HTML & CSS), jQuery (JavaScript) and HttpClient for Rest API handling are used.
-
-My colleagues at work could benefit from the application as well, but they don't remember it exists, unfortunately.
